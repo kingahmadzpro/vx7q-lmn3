@@ -16,7 +16,6 @@ import mongodbicon from "../../assets/icons/mongoicon.svg";
 import vuejsicon from "../../assets/icons/vueicon.svg";
 import expressicon from "../../assets/icons/expressicon.svg";
 import sassscssicon from "../../assets/icons/sassicon.svg";
-import apiicon from "../../assets/icons/apiicon.svg";
 import wordpressicon from "../../assets/icons/wordpressicon.svg";
 import webflowicon from "../../assets/icons/webflowicon.svg";
 import royalrideservicesMockup from "../../assets/img/royalrideservices_mockup.webp";
