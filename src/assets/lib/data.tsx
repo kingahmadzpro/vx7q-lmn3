@@ -6,6 +6,7 @@ import cssicon from "../../assets/icons/cssicon.svg";
 import javascripticon from "../../assets/icons/javascripticon.svg";
 import typescripticon from "../../assets/icons/typescripticon.svg";
 import reacticon from "../../assets/icons/reacticon.svg";
+import shopifyicon from "../../assets/icons/shopifyicon.svg";
 import nextjsicon from "../../assets/icons/nextjsicon.svg";
 import nodejsicon from "../../assets/icons/nodejsicon.svg";
 import tailwindcssicon from "../../assets/icons/tailwindicon.svg";
@@ -79,7 +80,7 @@ export const projectsData = [
       { name: "Figma", icon: figmaicon },
       { name: "Canva", icon: canvaicon },
     ],
-    image: royalridesericesMockup,
+    image: royalrideservicesMockup,
     deploymenturl: "https://royalrideservices.com",
     githuburl: "https://github.com/iAneesAhmad",
     githubicon: FiGithub,
