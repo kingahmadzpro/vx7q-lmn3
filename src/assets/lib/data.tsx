@@ -132,7 +132,7 @@ export const projectsData = [
       { name: "Figma", icon: figmaicon },
     ],
     image: musecollectionMockup,
-    deploymenturl: "https://musecollection.com",
+    deploymenturl: "https://musecollection.pk",
     githuburl: "https://github.com/iAneesAhmad",
     githubicon: FiGithub,
     deploymenticon: FiLink,
